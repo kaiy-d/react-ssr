@@ -1,11 +1,3 @@
-# Redux SSR Shopping Cart 
-
-> A complete sample of React + Redux + Server Side Render + GraphQL + Express + MongoDB
-
-[See it running](http://jquery-developers-shop.herokuapp.com/)
-
-![Example Image](example/example.png)
-
 ## Summary
 
 - [Structure](#structure)

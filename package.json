@@ -1,5 +1,4 @@
 {
-  "name": "redux-ssr-shopping-cart",
   "version": "1.0.0",
   "description": "A Sample of React + Redux + Server Side Render + GraphQL + Express + MongoDB",
   "main": "index.js",
@@ -9,7 +8,6 @@
     "start": "node dist/server",
     "test": "./node_modules/.bin/jest"
   },
-  "author": "Raphael Amorim",
   "license": "MIT",
   "dependencies": {
     "@risingstack/graffiti": "3.3.0",
